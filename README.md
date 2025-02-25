@@ -5,7 +5,7 @@
 Me chamo Ricardo Calvo Carmanhães, tenho 18 anos. Concluí o ensino médio e atualmente, estou cursando Sistemas de Informação na FIAP. Sou apaixonado por tecnologia e sempre busco aprimorar meus conhecimentos voltado a esta área que está em constante evolução.
 
 <p align="left">
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwRrhTvLgppgwvcZQWgqTdQPcDmpClcmHMggqCZWhNgjChHrBNrPbszwnrbBfDLQPvTsFDw">
+    <a href="mailto:ricoccalvo@gmail.com">
         <img 
             alt="Meu Gmail" 
             title="Meu Gmail para contato" 
